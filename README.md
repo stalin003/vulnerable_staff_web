@@ -34,3 +34,5 @@ Default student id is their rollnumber and password is their mobile number</p>
 html, css, jQuery, ajax
 #### Backend:
 php, mySQL
+
+<p> fontawesome icons are used </p>
