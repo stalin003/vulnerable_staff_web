@@ -1,0 +1,839 @@
+@media only screen and (max-width:1200px)
+{
+    .row{
+        width: 100%;
+        padding-left:10px;
+        padding-right: 20px;
+    }
+    
+    .profile-pic img{
+        width: 250px;
+    }
+    
+    .staff-more{
+        width: 18%;
+    }
+    
+    select{
+        width: 23%;
+    }
+    
+    /* == guest - lecturer == */
+
+    .reports{
+        width: 70%;
+    }
+    
+    .right::before{
+        top: 70%;
+        left: 30.4%;
+    }
+    
+    .left::before{
+        top: 11.5%;
+        right: 23.2%;
+    }
+    
+    .login-box{
+        top: 8%;
+        max-width: 1024;
+        height: 550px;
+        margin: 40px;
+    }
+    
+}
+
+@media only screen and (max-width:1160px)
+{
+    .right::before{
+        top: 70%;
+        left: 29.6%;
+    }
+}
+
+@media only screen and (max-width:1120px)
+{
+    .right::before{
+        top: 70%;
+        left: 28.9%;
+    }
+}
+
+@media only screen and (max-width:1030px)
+{
+    .right::before{
+        top: 70%;
+        left: 27%;
+    }
+}
+
+@media only screen and (max-width:1030px)
+{
+    .right::before{
+        top: 70%;
+        left: 25.5%;
+    }
+}
+
+@media only screen and (max-width:1023px)
+{
+    
+    
+    .login-box{
+        top: 5%;
+        height: 500px;
+        margin: 20px;
+    }
+    
+    h1{
+        font-size: 180%;
+        letter-spacing: 1px;
+        word-spacing: 2px;
+
+    }
+    
+    .hero-text p{
+        font-size: 80%;
+    }
+    
+    h2{
+        font-size: 110%;
+    }
+    
+    .right::before{
+        top: 70%;
+        left: 26%;
+    }
+    .tab button{
+        width: 115px;
+    }
+    
+    .home-res .span-1-of-4{
+        width: 100%;
+    }
+    
+    .profile-pic img{
+         width: 200px;
+        height: 250px;
+    }
+    
+    .staff-more{
+        width: 18%;
+    }
+    
+    .staff-more button{
+        width: 100%;
+    }
+    
+    select{
+        width: 21%;
+    }
+    
+    .hero-text h2{
+        transform: translate(100%,220%);
+        color: rgba(255, 255, 255, 0.9);
+        font-size: 180%;
+        width: 32%;
+    }
+    
+    .vertical-books-slide{
+        height: 400px;
+    }
+    
+    
+    .book-img{
+    width: 205px;
+    height: 255px;
+    
+    }
+
+    .book-img img{
+        width: 200px;
+        height: 250px;
+    }
+
+    .book-details{
+        margin-right: 110px;
+        width: 25%;
+    }
+    
+    /* === horizontal books === */
+    
+    .horizontal-books-slide{
+    
+        height: 350px;
+    }
+
+
+
+    .v-books-design-pic img{
+        height: 200px;
+        width: 150px;
+    }
+
+
+    .linear-books{
+        margin: 0 7px ;
+        height: 330px;
+    }
+
+
+    .book-content{
+        width: 150px;
+    }
+    
+    .events{
+        padding: 30px;
+    }
+    
+    .reports{
+        width: 65%;
+    }
+    
+    .guest-lecturer{
+        width: 33%;
+    }
+    
+    .guest-lecturer-profile-pic{
+        height: 300px;
+        width: 100%;
+    }
+    
+    .guest-lecturer-pic{
+        height: 250px;
+        width: 100%;
+    }
+    
+    .guest-lecturer-profile{
+        height: 300px;
+        width: 100%;
+    }
+    
+    .guest-lecturer-details{
+        width: 100%;
+        height: 350px;
+    }
+    
+    .guest-lecturer{
+        transform: translateY(-3%) rotate(-5deg);
+    }
+    
+    
+    .guest-reports{
+        margin-bottom: 40px;
+        margin-top: 20px;
+    }
+
+}
+
+
+
+@media only screen and (max-width:1000px){
+    .right::before{
+        top: 70%;
+        left: 25.4%;
+    }
+}
+
+
+@media only screen and (max-width:960px){
+    .right::before{
+        top: 70%;
+        left: 24.2%;
+    }
+}
+
+
+@media only screen and (max-width:960px){
+    .right::before{
+        top: 70%;
+        left: 22.8%
+    }
+    
+    .left::before{
+        right: 23%;
+    }
+}
+
+
+@media only screen and (max-width:865px){
+    .right::before{
+        top: 70%;
+        left: 21%
+    }
+}
+
+@media only screen and (max-width:830px){
+    .right::before{
+        top: 70%;
+        left: 19.5%
+    }
+    
+    .left::before{
+        right: 22.5%;
+    }
+}
+
+
+@media only screen and (max-width:790px){
+    .right::before{
+        top: 70%;
+        left: 18%
+    }
+}
+
+
+
+
+
+@media only screen and (max-width:767px)
+{
+    .dev2{
+        display: block;
+    }
+    
+    
+    .Question-papers{
+        padding: 20px;
+    }
+    
+    .login-box{
+        position:none;
+        height: 100%;
+        margin: 0;
+        top: 0%;
+    }
+    
+    .timeline-divider{
+        display: none;
+    }
+    
+    .timeline-circle::after{
+        display: none;
+    }
+    
+    .right{
+        transform: translateY(0%);
+    }
+
+    .left{
+        transform: translateY(0%);
+        margin-bottom: 45px;
+    }
+    
+    
+    .right::before{
+        display: none;
+    }
+    
+    
+    
+    .left::before{
+        content: "";
+        position: absolute;
+        height: 0;
+        width: 0;
+        border: 1px solid #1a5073;
+        border-width: 0px 10px 10px 10px;
+        top: 0%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+        border-color: transparent transparent #1a5073 transparent;
+        z-index: 1;
+    }
+    
+    .teachers{
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    
+    .student-content{
+        width: 100%;
+    }
+    
+    .timeline-cotainer{
+        width: 100%;
+    }
+    
+    
+    .login-design{
+        display: none;
+    }
+    
+    
+    
+    .login-form{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    h2{
+        font-size: 160%;
+    }
+    
+/*
+    .login-design{
+        display: none;
+    }
+    
+    .login-box{
+        top: 0;
+        height: 100%;
+        width: 100%;
+    }
+    
+    .login-form{
+        height: 100%;
+        display: flex;
+        flex-flow: column;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    
+    .login-form{
+        padding:10px; 
+        text-align: center;
+        margin-top: 100px;
+    }
+*/
+    
+    
+    body{
+        font-size: 16px;
+    }
+    
+    .navbar ul li{
+        width: 100%;
+        display: none;
+    }
+    
+    .universal-more{
+        display: inline-block;
+    }
+    
+    .span-1-of-3{
+        width: 100%;
+        float: none;
+    }
+    
+    .span-2-of-3{
+        width: 100%;
+        float: none;
+    }
+    
+    .tab button{
+        width: 101px;
+        padding: 8px 5px;
+    }
+    
+    .staff-more button{
+        width: 100%;
+        padding: 4px 0; 
+    }
+    
+    .tab-content{
+        min-height: 150px;
+    }
+    
+    .tab{
+        margin-top: 10px;
+    }
+    
+    input[type=text].find-fix{
+        width: 45%;
+    }
+    
+    .event-images img{
+        height: 300px;
+    }
+    
+    .guest-reports{
+        flex-direction: column;
+    }
+    
+    .reports{
+        width: 100%;
+    }
+    
+    .guest-lecturer{
+        width: 60%;
+        align-self: center;
+    }
+
+    
+    .guest-lecturer{
+        transform: translateY(-10%) rotate(-5deg);
+    }
+    
+   
+    
+    .book-img{
+        margin-left: 30px;
+        margin-right: 10px;
+        width: 155px;
+        height: 205px;
+
+    }
+
+    .book-img img{
+        width: 150px;
+        height: 200px;
+    }
+    
+    .book-details{
+        width: 15%;
+    }
+
+    .book h3{
+        font-size: 150%;
+        letter-spacing: 3px;
+        text-transform: uppercase;
+    }
+
+    
+
+    .book ul{
+        margin-top: 10px;
+    }
+    
+    .book ul li{
+        width: 150px;
+    }
+    
+    .vertical-books-slide{
+        height: 350px;
+
+    }
+    
+    .horizontal-books-slide{
+    
+        height: 300px;
+        margin-top: 120px;
+        margin-bottom: 80px;  
+    }
+    
+    .book-container{
+        width: 70%;
+        margin-left: 30px;
+    }
+    
+    .book-slider{
+        margin-left: 8px;
+        margin-top: -8px;
+    }
+    
+    
+    .class-teacher{
+        height: 200px;
+        width: 150px;
+        margin: 20px 0;
+    }
+    
+    
+    .student-content{
+        width: 50%;
+        padding: 5px;
+    }
+
+    .student-content ul li{
+        padding: 5px;
+    
+    }
+    
+    .timeline-circle::after{
+        width: 20px;
+        height: 20px;
+        top: 10%;
+        background-color: #eee;
+        right: -8%;
+        border-radius: 50%;
+        border: 4px solid #1a5073;
+        box-shadow: 0 0 5px #1a5073;
+    }
+    
+    .mentor-pic{
+        padding: 5px;
+    }
+    
+    .right::before{
+        top: 70%;
+        left: 25%;
+        z-index: 1;
+    }
+
+}
+
+
+
+@media only screen and (max-width:750px){
+    .right::before{
+        top: 70%;
+        left: 23.5%
+    }
+}
+
+
+
+
+
+
+@media only screen and (max-width:710px){
+    .right::before{
+        top: 70%;
+        left: 22.5%
+    }
+}
+
+
+@media only screen and (max-width:680px){
+    .right::before{
+        top: 70%;
+        left: 21%
+    }
+    
+    
+}
+
+@media only screen and (max-width:650px){
+    .right::before{
+        top: 70%;
+        left: 19%
+    }
+    
+    
+}
+
+
+@media only screen and (max-width:640px){
+    .right::before{
+        top: 70%;
+        left: 19%
+    }
+    
+    
+}
+
+@media only screen and (max-width:620px){
+    .right::before{
+        top: 70%;
+        left: 17%
+    }
+    
+    
+}
+
+
+@media only screen and (max-width:580px){
+    .right::before{
+        top: 70%;
+        left: 15%
+    }
+    
+    
+}
+
+@media only screen and (max-width:555px){
+    .right::before{
+        top: 70%;
+        left: 12%;
+    }
+    
+    
+}
+
+@media only screen and (max-width:525px){
+    .right::before{
+        top: 70%;
+        left: 11%;
+    }
+    
+    
+}
+
+
+
+@media only screen and (max-width:506px){
+    .right::before{
+        top: 70%;
+        left: 9%;
+    }
+    
+    
+}
+
+
+
+
+/* === Small - screen === */
+
+
+
+
+
+@media only screen and (max-width:480px){
+    
+    input[type=text]#search-bar{
+        width: 60%;
+    }
+    
+    input[type=button]#search-btn{
+        width: 30%;
+    }
+    
+    input[type=text].find-fix{
+        width: 40%;
+    }
+    
+    
+    
+    
+    
+    .guest-lecturer{
+        
+    }
+    
+    .guest-lecturer-profile-pic{
+        height: 230px;
+        width: 150px;
+    }
+    
+    .guest-lecturer-pic{
+        height: 180px;
+        width: 150px;
+    }
+    
+    .guest-lecturer-profile{
+        height: 230px;
+        width: 150px;
+    }
+    
+    .guest-lecturer-details{
+        width: 150px;
+        height: 230px;
+    }
+    
+    
+    
+    
+    
+    .vertical-books-slide{
+        height: 400px;
+    }
+    
+    
+    .book-img{
+        width: 105px;
+        height: 155px;
+        transform: translateY(20%);
+    
+    }
+
+    .book-img img{
+        width: 100px;
+        height: 150px;
+    }
+    
+    
+    
+    .vertical-books-slide{
+        flex-direction: column;
+
+    }
+    
+    
+
+    .book-details{
+        margin-right: 50px;
+        width: 25%;
+        transform: translate(5%,-5%);
+    }
+    
+    
+    .pre{
+        left: 0;
+    }
+    
+    
+    .horizontal-books-slide{
+    
+        height: 260px;
+    }
+
+
+
+    .v-books-design-pic img{
+        height: 150px;
+        width: 100px;
+    }
+
+
+    .linear-books{
+        margin: 0 7px ;
+        height: 330px;
+    }
+
+
+    .book-content{
+        width: 100px;
+    }
+    
+    section{
+        padding: 20px 0px ;
+    }
+    
+    .events{
+        margin-bottom: 40px;
+        padding: 20px;
+    }
+    
+    
+}
+
+@media only screen and (max-width:360px)
+{
+    input[type=text].find-fix{
+        width: 35%;
+    }
+    
+    .events{
+        margin-bottom: 40px;
+    }
+    
+    section{
+        padding-bottom: 15px;
+    }
+    
+    .event-gallery{
+        padding: 10px;
+    }
+    
+    .event-images img{
+        height: 200px;
+    }
+    
+    .industrial-visit-hero{
+        height: 300px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    
+    .hero-text h2{
+        transform: translate(10%,120%);
+        color: rgba(255, 255, 255, 0.9);
+        font-size: 150%;
+        width: 180px;
+    }
+}
+
+
+@media only screen and (max-width:320px)
+{
+    
+}
+
+
+
+
