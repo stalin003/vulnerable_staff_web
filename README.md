@@ -29,3 +29,8 @@ Default student id is their rollnumber and password is their mobile number</p>
 <p>While loggin in it automatically detects whether it's admin or student based on their id</p>
 <p>The student who passed out the college are automaticall sent to inactive state</p>
 <p>Only the active state student can login the website</p>
+
+#### Frontend:
+html, css, jQuery, ajax
+#### Backend:
+php, mySQL
