@@ -1,7 +1,7 @@
 # staff_web
 college staff website project
 
-### It contains's the details of: 
+### It contains the details of: 
 * Student list in college 
 * Events 
 * Staff details
