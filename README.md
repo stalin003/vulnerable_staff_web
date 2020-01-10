@@ -1,16 +1,16 @@
 # staff_web
 college staff website project
 
-### It display's the: 
+### It contains's the details of: 
 * Student list in college 
 * Events 
 * Staff details
 * Alumni
-* Guestlecturers
-* Industrila visit
+* Guest lecturers
+* Industrial visit
 * Placement details
 * Question papers
-* Online Lecures
+* Online Lectures
 * Mentoring List
 
 <hr>
